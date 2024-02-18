@@ -1,5 +1,5 @@
 # webscraping#
 
-# These are webscraping projects or portfolios #
+# These are my webscraping projects or portfolios #
 
-# kindly go through and don't forget to give me a feedback about my work #
+# kindly go through them and don't forget to reach out with a feedback #
